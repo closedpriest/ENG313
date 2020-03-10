@@ -1,6 +1,7 @@
 # Logo example
 ## vavle
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg)
+:arrow_forward:
 ```java
 public class test
 {
