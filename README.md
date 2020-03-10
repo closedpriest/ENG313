@@ -11,5 +11,5 @@ System.out.println("example of image");
 }
 }
 ```
-https://www.youtube.com/watch?v=JAuZLo7UKbE&t=1s
+[![](http://img.youtube.com/vi/JAuZLo7UKbE/0.jpg)](http://www.youtube.com/watch?v=JAuZLo7UKbE "")
 :zipper_mouth_face:
