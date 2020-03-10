@@ -9,6 +9,6 @@ public static void main(String args[])
 System.out.println("example of image");
 }
 }
-[![IMAGE ALT TEXT HERE]
+[![ALT TEXT]
 (https://img.youtube.com/vi/JAuZLo7UKbE/0.jpg)]
 (https://www.youtube.com/watch?v=JAuZLo7UKbE)
