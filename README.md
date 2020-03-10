@@ -9,4 +9,4 @@ public static void main(String args[])
 System.out.println("example of image");
 }
 }
-[![](http://img.youtube.com/vi/JAuZLo7UKbE/0.jpg)](http://www.youtube.com/watch?v=JAuZLo7UKbE "")
+https://www.youtube.com/watch?v=JAuZLo7UKbE&t=1s
