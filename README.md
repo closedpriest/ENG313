@@ -9,6 +9,4 @@ public class static void main(String args[])
 System.out.println("example of image");
 }
 }
-[![IMAGE ALT TEXT HERE]
-(https://img.youtube.com/vi/<JAuZLo7UKbE>/default.jpg)]
-(https://www.youtube.com/watch?v=JAuZLo7UKbE)
+<a href=<iframe width="702" height="293" src="https://www.youtube.com/embed/JAuZLo7UKbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
